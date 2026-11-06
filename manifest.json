@@ -1,0 +1,17 @@
+{
+  "name": "Mayra AI",
+  "short_name": "Mayra",
+  "description": "Mayra AI – Personal AI Assistant with Al Quran, Hadith & Dua",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "bn",
+  "background_color": "#07031a",
+  "theme_color": "#07031a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
